@@ -1,0 +1,2 @@
+file1	plugins/USAlign/example/1.pdb
+file2	plugins/USAlign/example/2.pdb
